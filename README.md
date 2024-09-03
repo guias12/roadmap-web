@@ -1,8 +1,11 @@
 
+
 # Caminho para a programação web
 
 Ao contrário do que muitas pessoas oportunistas dizem a programação não é algo fácil. Para seguir nesse caminho é preciso estudar bastante, praticar os conceitos aprendidos, tirar as dúvidas adquiridas e aprender a ser autodidata. 
-Não é fácil, mas é um caminho plausível de ser seguido, se houver dedicação para tal. Tenha muita atenção nos seus estudos, **se preocupe mais em aprender os conceitos do que em copiar o que os cursos fazem**, aprenda a fazer pesquisas e a buscar respostas sozinho para suas perguntas, seja curioso e mantenha-se sempre estudando. Essas qualidades são **essenciais** para quem quer começar nessa carreira.
+Não é fácil, mas é um caminho plausível de ser seguido, se houver dedicação para tal. Tenha muita atenção nos seus estudos, **se preocupe mais em aprender os conceitos do que em copiar o que os cursos fazem**, aprenda a fazer pesquisas e a buscar respostas sozinho para suas perguntas, seja curioso e mantenha-se sempre estudando. Programar é saber solucionar problemas, portanto, essas qualidades são **essenciais** para quem quer seguir nessa carreira.
+
+Pode ficar muito difícil em alguns momentos, isso é natural e acontece com quase todo mundo. Mantenha-se motivado mesmo nesses momentos, [esse vídeo](https://www.youtube.com/watch?v=_7mJDIFYe0o) passa algumas reflexões sobre a jornada de aprender a programar que podem ser úteis.
 
 Os capítulos abaixo foram feitos para introduzir e apresentar conceitos que eu considero importantes para a carreira. Sinta-se livre e encorajado para buscar além do que está escrito abaixo. Busque outras fontes, leia outros textos, veja outros vídeos e cursos, se aprofunde nos assuntos, seja curioso. Há sempre muito mais para se aprender. E, especialmente nesse início, todo conhecimento será bem vindo e útil para o futuro.
 
@@ -38,6 +41,7 @@ Daqui em diante vamos começar a aprofundar na parte que nos interessa mais: o s
    - [Introdução à lógica de programação](https://www.youtube.com/watch?v=jBIPvXHRYpg)
    - [O que é uma linguagem de programaçao?](https://www.youtube.com/watch?v=yT22ylhonfs)
    - [Como funcionam as linguagens de programação](https://www.youtube.com/watch?v=jIV_JMnfuiM)
+   - [Como funcionam as linguagens de programação 2](https://www.youtube.com/watch?v=JrSs1cRRvPQ)
    - [Curso Lógica de programação](https://www.youtube.com/playlist?list=PLfzRxaru7YPtu8TPQChFnLN9rGXoXfNUQ)
    
 
@@ -50,6 +54,32 @@ Daqui em diante vamos começar a aprofundar na parte que nos interessa mais: o s
   - [Primeiros contatos com o JavaScript - Apenas uma introdução](https://www.devmedia.com.br/javascript-tutorial/37257)
   - [Caracteristicas Linguagens de Programação](https://growthcode.com.br/programacao/principais-caracteristicas-de-uma-linguagem-de-programacao-e-sua-escrita/)
 
+## Parte 3: Mão na massa - Escrevendo os primeiros programas
+
+Até agora foi tudo muito teórico. Tá na hora de botar a mão na massa e programar um pouco. Aproveitando para revisitar alguns conceitos estudados anteriormente. Tente fazer tudo usando o JavaScript, os vídeos abaixo explicam como programar usando o JS.
+
+- 🎥:
+  - [O que é IDE?](https://www.youtube.com/watch?v=28fgM-DD0fI)
+  - [Como instalar, configurar e usar o VSCode](https://www.youtube.com/watch?v=uxln1hT_Ev4)
+   - [Curso: Fundamentos de Programação JavaScript](https://www.youtube.com/watch?v=aA31cVca_hI)
+
+- 📚:
+  - [Exercícios para Lógica de programação](https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao)
+  - [Exercícios para Lógica de programação 2](https://awari.com.br/10-exercicios-de-logica-de-programacao-para-aprimorar-suas-habilidades/)
+
+> Essa parte pode ser o seu primeiro desafio. Preste muita atenção no terceiro vídeo da lista, é mais importante entender o que está sendo feito do que apenas copiar o que está sendo feito. Veja e reveja quantas vezes for necessário. Tente aplicar os conceitos ensinados em outros contextos também. Se ainda ficarem dúvidas busque em outras fontes como vídeos do youtube ou textos na internet
+> 
+> Quando for praticar usando os exercícios faça pesquisas, pesquise suas dúvidas no google (se não achar nada em português lembre de pesquisar em inglês usando os tradutores), leia o que outras pessoas já disseram sobre na internet. Na programação é muito provável que alguém já tenha tido a dúvida que você está tendo agora.
+
+ 
+## Parte 4: A web
+
+Lorem ipsum 
+- 🎥:
+   - []()
+
+- 📚:
+  - []()
 
 ## Create files and folders
 
